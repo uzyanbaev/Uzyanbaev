@@ -1,16 +1,17 @@
-### Hi there 👋
+# Привет, меня зовут Радмир
 
-<!--
-**Uzyanbaev/Uzyanbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+мне 15 лет, учусь frontend разработке
 
-Here are some ideas to get you started:
+## Как связаться со мной
+- uzyanbaevradmir@gmail.com
+- [VK](https://vk.com/uzyanbaev)
+- [Telegram](https://t.me/t1lent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="SASS" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" width="50"/>
+
+## Что делаю на данный момент?
+- Прохожу курс Ивана Петриченко WEB-разработчик
