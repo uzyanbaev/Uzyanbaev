@@ -3,7 +3,7 @@
 
 ---
 
-### Как связаться со мной:
+### Связаться со мной:
 - uzyanbaevradmir@gmail.com
 - [VK](https://vk.com/uzyanbaev)
 - [Telegram](https://t.me/t1lent)
