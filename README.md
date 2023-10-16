@@ -1,6 +1,7 @@
+<img src="https://komarev.com/ghpvc/?username=uzyanbaev&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="uzyanbaev"/>
 <h1 align="center">
   <b>Привет, я Радмир Узянбаев</b>
-      <img src="https://komarev.com/ghpvc/?username=uzyanbaev&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />
+      
 </h1>
 
 <p align="center">
