@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #4078c0;">
+<div align="center" style="background-color: #0366d6;">
     <img width="150" src="https://komarev.com/ghpvc/?username=uzyanbaev&color=4078c0">
 </div>
 
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img width="550" src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer&center=true&width=380&height=45&color=4078c0">
+    <img width="550" src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer&center=true&width=380&height=45&color=0366d6">
   </a>
 </p>
 
