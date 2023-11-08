@@ -1,13 +1,13 @@
-<div align="left" style="color: #539bf5;">
-    <img width="150" src="https://komarev.com/ghpvc/?username=uzyanbaev&color=4078c0">
+<div align="left">
+    <img width="150" src="https://komarev.com/ghpvc/?username=uzyanbaev&color=4e8fe0">
 </div>
 
 
-<h1 align="left"><b>Привет, я Радмир Узянбаев</b></h1>
+<h1 align="left"><b>Привет, я Радмир Узянбаев</b>:wave:</h1> 
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img width="500" src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer&center=true&width=380&height=45&color=539bf5">
+    <img width="500" src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer&center=true&width=380&height=45&color=4e8fe0">
   </a>
 </p>
 
@@ -16,6 +16,7 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
