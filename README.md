@@ -1,5 +1,7 @@
 <div align="left">
-    <img width="180 src="https://komarev.com/ghpvc/?username=uzyanbaev&color=539bf5">
+    <a href="https://github.com/uzyanbaev/github-profile-views-counter">
+        <img width="125px" src="https://komarev.com/ghpvc/?username=uzyanbaev&color=539bf5">
+    </a>
 </div>
 
 <h1 align="left"><b>Hi, I'm Radmir Uzyanbaev</b>:wave:</h1> 
